@@ -6,3 +6,4 @@
 
 4.  git -init  // initialize git
 
+5.  npm init @eslint/config         // analyise  your code 
