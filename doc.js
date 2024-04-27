@@ -14,5 +14,9 @@
 
 8.  npm i dotenv // for setup ENV 
 
-9.  npm i -D @types/dotenv 
+9.  npm i -D @types/dotenv
+
+10. npm install mongoose
+
+11. npm i -D @types/mongoos
 
