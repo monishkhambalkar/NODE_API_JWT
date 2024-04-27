@@ -11,3 +11,8 @@
 6.  npm install express
 
 7.  npm i -D @types/express  // for typescript
+
+8.  npm i dotenv // for setup ENV 
+
+9.  npm i -D @types/dotenv 
+
