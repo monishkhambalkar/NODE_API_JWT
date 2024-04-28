@@ -24,5 +24,7 @@
 
 13  npm i -D @types/http-errors
 
-14  
+14  npm install bcrypt  // for password bcrypt
+
+15  npm i -D @types/bcrypt  // for password bcrypt with typescript
 
