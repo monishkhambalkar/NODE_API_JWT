@@ -28,3 +28,6 @@
 
 15  npm i -D @types/bcrypt  // for password bcrypt with typescript
 
+16  npm install jsonwebtoken // for create jwt wen token 
+
+17  npm i -D @types/jsonwebtoken // for create jwt wen token with typescript
