@@ -20,3 +20,9 @@
 
 11. npm i -D @types/mongoos
 
+12  npm install http-errors
+
+13  npm i -D @types/http-errors
+
+14  
+
