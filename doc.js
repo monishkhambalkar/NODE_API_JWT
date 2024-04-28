@@ -31,3 +31,7 @@
 16  npm install jsonwebtoken // for create jwt wen token 
 
 17  npm i -D @types/jsonwebtoken // for create jwt wen token with typescript
+
+18  npm install --save multer  // for upload  multipart form data
+
+19  npm i -D @types/multer  // for upload  multipart form data with typescript
