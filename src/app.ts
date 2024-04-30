@@ -2,6 +2,7 @@ import express, { NextFunction, Request, Response } from "express";
 import globalErrorHandler from "./middlewares/globalErrorHandlers";
 import userRouter from "./user/userRouter";
 import bodyParser from "body-parser";
+import bookRouter from "./book/bookRouter";
 
 const app = express();
 
@@ -14,6 +15,8 @@ app.get("/", (req, res, next) => {
 });
 
 app.use("/api/users", userRouter);
+
+app.use("/api/books", bookRouter);
 
 app.use(globalErrorHandler);
 

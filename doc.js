@@ -35,3 +35,7 @@
 18  npm install --save multer  // for upload  multipart form data
 
 19  npm i -D @types/multer  // for upload  multipart form data with typescript
+
+20  npm install cloudinary   // for cloudinary to store images on cloude
+
+21  cloudinary.com->setting->security->check "PDF and ZIP files delivery:"      // setting for upload pdf on cloudinary
